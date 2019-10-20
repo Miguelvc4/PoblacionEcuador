@@ -1,0 +1,163 @@
+
+{
+	"poblaciones":
+	[
+	  {
+		"anio": 2018,
+		"poblacion": 17023000
+	  },
+	  {
+		"anio": 2017,
+		"poblacion": 16777000
+	  },
+	  {
+		"anio": 2016,
+		"poblacion": 16529000
+	  },
+	  {
+		"anio": 2015,
+		"poblacion": 16279000
+	  },
+	  {
+		"anio": 2014,
+		"poblacion": 16027000
+	  },
+	  {
+		"anio": 2013,
+		"poblacion": 15775000
+	  },
+	  {
+		"anio": 2012,
+		"poblacion": 15521000
+	  },
+	  {
+		"anio": 2011,
+		"poblacion": 15266000
+	  },
+	  {
+		"anio": 2010,
+		"poblacion": 15012000
+	  },
+	  {
+		"anio": 2009,
+		"poblacion": 14738000
+	  }
+	],
+	
+	"Generos":
+		{
+			"2018":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 8537236
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 8547121
+				}
+			],
+			"2017":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 8389038
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 8396323
+				}
+			],
+			"2016":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 8243183
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 8247932
+				}
+			],
+			"2015":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 8104887
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 8107133
+				}				
+			],
+			"2014":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 7976028
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 7975810
+				}
+			],
+			"2013":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 7855062
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 7852412
+				}
+			],
+			"2012":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 7739589
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 7734513
+				}
+			],
+			"2011":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 7625693
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 7618190
+				}
+			],
+			"2010":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 7510531
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 7500586
+				}
+			],
+			"2009":
+			[
+				{
+				"tipo": "Hombres",
+				"valor": 7393418
+				},
+				{
+				"tipo": "Mujeres",
+				"valor": 7381006
+				}				
+			]
+				
+		}
+		
+	
+}
